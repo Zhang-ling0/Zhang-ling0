@@ -1,25 +1,27 @@
-<!-- ==================== HEADER ==================== -->
+<!-- ================================================== -->
+<!--                    HEADER                          -->
+<!-- ================================================== -->
 
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,30:172554,65:312E81,100:0891B2&height=250&section=header&text=ZHANG&fontSize=76&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=SYSTEMS%20%7C%20NETWORKING%20%7C%20AI&descSize=16&descAlignY=58&descColor=A5F3FC"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,30:172554,65:312E81,100:0891B2&height=250&section=header&text=ZHANG&fontSize=76&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=DEVELOPER%20DASHBOARD&descSize=16&descAlignY=58&descColor=A5F3FC"
   width="100%"
-  alt="ZHANG | Systems, Networking and AI"
+  alt="ZHANG Developer Dashboard"
 />
 
 <br/>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3000&pause=1000&color=67E8F9&center=true&vCenter=true&width=700&height=45&lines=C%2B%2B+Developer+in+Progress;Exploring+Linux+%26+Network+Programming;Building+Systems+for+the+AI+Era"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3000&pause=1000&color=67E8F9&center=true&vCenter=true&width=700&height=45&lines=C%2B%2B+Developer+in+Progress;Linux+%26+Network+Programming;Exploring+AI+Systems+Engineering"
   alt="Developer Introduction"
 />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/SYSTEMS%20%26%20AI-172554?style=for-the-badge&logo=linux&logoColor=67E8F9&labelColor=0B1020" alt="Systems and AI"/>
+<img src="https://img.shields.io/badge/FOCUS-SYSTEMS%20%26%20AI-0B1020?style=for-the-badge&labelColor=172554" alt="Systems and AI"/>
 
-<img src="https://img.shields.io/badge/BUILDING%20IN%20PUBLIC-312E81?style=for-the-badge&logo=github&logoColor=C4B5FD&labelColor=0B1020" alt="Building in Public"/>
+<img src="https://img.shields.io/badge/STATUS-LEARNING-0B1020?style=for-the-badge&labelColor=312E81" alt="Learning Status"/>
 
 <br/><br/>
 
@@ -27,54 +29,53 @@
 
 ---
 
-<!-- ==================== ABOUT ==================== -->
+<!-- ================================================== -->
+<!--                    OVERVIEW                        -->
+<!-- ================================================== -->
 
-<h2 align="center">ABOUT ME</h2>
+<h2 align="center">OVERVIEW</h2>
 
-<div align="center">
-
-### Learning by building. Understanding by engineering.
-
-<p>
-  I'm a developer in progress, focused on understanding how software works<br/>
-  from the system level up.
-</p>
-
-<p>
-  Currently building a foundation in C/C++, Linux and network programming,<br/>
-  with a long-term interest in high-performance systems and AI infrastructure.
+<p align="center">
+  <sub>A PERSONAL SPACE FOR LEARNING, BUILDING AND ENGINEERING</sub>
 </p>
 
 <br/>
 
-</div>
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+
+### DEVELOPER PROFILE
+
+I'm a developer in progress, building a strong foundation in systems programming and software engineering.
+
+My current focus is C/C++, Linux system programming, data structures and network communication.
+
+My long-term direction is high-performance systems and AI infrastructure.
+
+</td>
+<td width="42%" valign="top">
+
+### CURRENT DIRECTION
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
-
-<h3 align="center">CURRENT FOCUS</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C%20%2F%20C%2B%2B-0B1020?style=flat-square&logo=cplusplus&logoColor=93C5FD" alt="C and C++"/>
-</p>
-
-<p align="center">Data Structures & Algorithms</p>
-<p align="center">Linux System Programming</p>
-<p align="center">Computer Networks & I/O</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">LONG-TERM INTERESTS</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SYSTEMS%20%26%20AI-0B1020?style=flat-square&logo=probot&logoColor=A78BFA" alt="Systems and AI"/>
-</p>
-
-<p align="center">High-Performance Servers</p>
-<p align="center">Concurrency & Memory Management</p>
-<p align="center">AI Inference Services</p>
+<td>Core Language</td>
+<td align="right"><strong>C / C++</strong></td>
+</tr>
+<tr>
+<td>Operating System</td>
+<td align="right"><strong>Linux</strong></td>
+</tr>
+<tr>
+<td>Networking</td>
+<td align="right"><strong>TCP/IP</strong></td>
+</tr>
+<tr>
+<td>Future Focus</td>
+<td align="right"><strong>AI Systems</strong></td>
+</tr>
+</table>
 
 </td>
 </tr>
@@ -82,12 +83,14 @@
 
 ---
 
-<!-- ==================== TECH STACK ==================== -->
+<!-- ================================================== -->
+<!--                    TECH STACK                      -->
+<!-- ================================================== -->
 
-<h2 align="center">TECHNOLOGY STACK</h2>
+<h2 align="center">TECH STACK</h2>
 
 <p align="center">
-  <sub>TOOLS AND TECHNOLOGIES I'M LEARNING</sub>
+  <sub>TECHNOLOGIES AND TOOLS</sub>
 </p>
 
 <br/>
@@ -116,12 +119,14 @@
 
 ---
 
-<!-- ==================== GITHUB ANALYTICS ==================== -->
+<!-- ================================================== -->
+<!--                  GITHUB ANALYTICS                  -->
+<!-- ================================================== -->
 
 <h2 align="center">GITHUB ANALYTICS</h2>
 
 <p align="center">
-  <sub>ACTIVITY · CODE DISTRIBUTION · CONTINUOUS PROGRESS</sub>
+  <sub>ACTIVITY · LANGUAGE DISTRIBUTION · DEVELOPMENT PROGRESS</sub>
 </p>
 
 <br/>
@@ -150,18 +155,21 @@
 
 ---
 
-<!-- ==================== PROJECTS ==================== -->
+<!-- ================================================== -->
+<!--                    PROJECTS                        -->
+<!-- ================================================== -->
 
-<h2 align="center">SELECTED PROJECTS</h2>
+<h2 align="center">FEATURED PROJECTS</h2>
 
 <p align="center">
-  <sub>TURNING KNOWLEDGE INTO PRACTICAL ENGINEERING</sub>
+  <sub>SELECTED WORK AND ENGINEERING PRACTICE</sub>
 </p>
 
 <br/>
 
 <table width="100%">
 <tr>
+
 <td width="50%" valign="top" align="center">
 
 <a href="https://github.com/Zhang-ling0/cpp-oj-vibecoding">
@@ -174,16 +182,16 @@
 
 <br/>
 
-<strong>C++ · Problem Solving</strong>
+### C++ DEVELOPMENT
 
-<br/><br/>
+<p align="center">
+  <sub>Problem Solving · Algorithms · C++ Practice</sub>
+</p>
 
-<sub>Practice, algorithms and C++ development.</sub>
-
-<br/><br/>
+<br/>
 
 <a href="https://github.com/Zhang-ling0/cpp-oj-vibecoding">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-172554?style=for-the-badge&logo=github&logoColor=67E8F9" alt="View C++ Project"/>
+  <img src="https://img.shields.io/badge/EXPLORE%20PROJECT-172554?style=for-the-badge&logo=github&logoColor=67E8F9" alt="Explore C++ Project"/>
 </a>
 
 </td>
@@ -194,25 +202,26 @@
   <img
     src="https://github-readme-stats.vercel.app/api/pin/?username=Zhang-ling0&repo=LinuxStudy&hide_border=true&bg_color=0B1020&title_color=67E8F9&text_color=CBD5E1&icon_color=A78BFA"
     width="100%"
-    alt="Linux Study"
+    alt="LinuxStudy"
   />
 </a>
 
 <br/>
 
-<strong>Linux · Systems Programming</strong>
+### LINUX SYSTEMS
 
-<br/><br/>
+<p align="center">
+  <sub>Linux · System Programming · Learning Notes</sub>
+</p>
 
-<sub>Linux concepts, system interfaces and practical notes.</sub>
-
-<br/><br/>
+<br/>
 
 <a href="https://github.com/Zhang-ling0/LinuxStudy">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-312E81?style=for-the-badge&logo=github&logoColor=C4B5FD" alt="View Linux Project"/>
+  <img src="https://img.shields.io/badge/EXPLORE%20PROJECT-312E81?style=for-the-badge&logo=github&logoColor=C4B5FD" alt="Explore Linux Project"/>
 </a>
 
 </td>
+
 </tr>
 </table>
 
@@ -220,12 +229,14 @@
 
 ---
 
-<!-- ==================== CONTRIBUTIONS ==================== -->
+<!-- ================================================== -->
+<!--                  CONTRIBUTIONS                     -->
+<!-- ================================================== -->
 
-<h2 align="center">CONTRIBUTION GRAPH</h2>
+<h2 align="center">CONTRIBUTION ACTIVITY</h2>
 
 <p align="center">
-  <sub>EVERY COMMIT IS A STEP FORWARD</sub>
+  <sub>CONSISTENCY BUILDS ENGINEERING SKILLS</sub>
 </p>
 
 <br/>
@@ -244,7 +255,9 @@
 
 ---
 
-<!-- ==================== FOOTER ==================== -->
+<!-- ================================================== -->
+<!--                     FOOTER                         -->
+<!-- ================================================== -->
 
 <div align="center">
 
@@ -252,24 +265,24 @@
 
 <img
   src="https://capsule-render.vercel.app/api?type=rect&color=0B1020&height=3&section=footer"
-  width="60%"
+  width="65%"
   alt="Footer Divider"
 />
 
 <br/><br/>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=4000&pause=1500&color=67E8F9&center=true&vCenter=true&width=500&height=35&lines=BUILD.+LEARN.+REPEAT.;Engineering+the+future%2C+one+commit+at+a+time."
-  alt="Footer Motto"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3500&pause=1500&color=67E8F9&center=true&vCenter=true&width=550&height=40&lines=BUILD.+LEARN.+REPEAT.;FROM+SYSTEMS+TO+AI."
+  alt="Developer Motto"
 />
 
-<br/><br/>
+<br/>
 
-<sub>
-  Exploring the intersection of systems engineering and artificial intelligence.
-</sub>
+<p>
+  <sub>Exploring the intersection of systems engineering and artificial intelligence.</sub>
+</p>
 
-<br/><br/>
+<br/>
 
 <img
   src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,40:312E81,75:172554,100:080B16&height=130&section=footer"
