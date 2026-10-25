@@ -198,3 +198,5 @@ with a long-term interest in high-performance systems and AI infrastructure.
 **BUILD · LEARN · REPEAT**
 
 <br/>
+
+<sub>Exploring the intersection of systems engineering and artificial intelligence.</sub>
