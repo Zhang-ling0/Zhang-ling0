@@ -1,103 +1,208 @@
 
-<!-- ==================== 01. 顶部动态头图 ==================== -->
+<!-- ==================== HEADER ==================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Developer%20Workspace&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%" alt="Developer Workspace" />
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,35:172554,70:312E81,100:0891B2&height=240&section=header&text=ZHANG&fontSize=72&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=SYSTEMS%20%7C%20NETWORKING%20%7C%20AI&descSize=16&descAlignY=60&descColor=A5F3FC"
+  width="100%"
+  alt="ZHANG - Systems, Networking and AI"
+/>
 
-<!-- ==================== 02. 名称与打字动画 ==================== -->
+<br/>
 
-# Hi, I'm Miss`Zhang
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=67E8F9&center=true&vCenter=true&width=700&height=40&lines=C%2B%2B+Developer+in+Progress;Exploring+Linux+%26+Network+Programming;Building+Systems+for+the+AI+Era"
+  alt="Developer Introduction"
+/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=C%2B%2B+Developer+in+Progress;Linux+%26+Network+Programming;Exploring+AI+Systems+Engineering" alt="Typing SVG" />
+<br/>
 
-<p>
-  <img src="https://img.shields.io/badge/Focus-Systems%20%26%20AI-00F7FF?style=flat-square" alt="Focus" />
-  <img src="https://img.shields.io/badge/Status-Learning-7C3AED?style=flat-square" alt="Status" />
+<img src="https://img.shields.io/badge/FOCUS-SYSTEMS%20%26%20AI-172554?style=for-the-badge&labelColor=080B16" alt="Focus: Systems and AI"/>
+<img src="https://img.shields.io/badge/STATUS-LEARNING-312E81?style=for-the-badge&labelColor=080B16" alt="Status: Learning"/>
+
+<br/><br/>
+
+</div>
+
+---
+
+<!-- ==================== ABOUT ==================== -->
+
+<h2 align="center">ABOUT ME</h2>
+
+<div align="center">
+
+**Learning by building. Understanding by engineering.**
+
+<br/>
+
+I'm a developer in progress, focused on understanding how software works
+from the system level up.
+
+I am currently building my foundation in C/C++, Linux and network programming,
+with a long-term interest in high-performance systems and AI infrastructure.
+
+<br/>
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### CURRENT FOCUS
+
+- C / C++ programming
+- Data structures and algorithms
+- Linux system programming
+- Computer networks and I/O models
+
+</td>
+<td width="50%" valign="top">
+
+### LONG-TERM INTERESTS
+
+- High-performance server architecture
+- Concurrency and memory management
+- AI inference services
+- Systems engineering for AI
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ==================== TECH STACK ==================== -->
+
+<h2 align="center">TECHNOLOGY STACK</h2>
+
+<p align="center">
+  <sub>TOOLS AND TECHNOLOGIES I'M LEARNING</sub>
 </p>
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/C-0B1220?style=for-the-badge&logo=c&logoColor=A5B4FC" alt="C"/>
+<img src="https://img.shields.io/badge/C%2B%2B-0B1220?style=for-the-badge&logo=cplusplus&logoColor=93C5FD" alt="C++"/>
+<img src="https://img.shields.io/badge/Python-0B1220?style=for-the-badge&logo=python&logoColor=67E8F9" alt="Python"/>
+<img src="https://img.shields.io/badge/Linux-0B1220?style=for-the-badge&logo=linux&logoColor=FDE68A" alt="Linux"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Git-0B1220?style=for-the-badge&logo=git&logoColor=FCA5A5" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=E2E8F0" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Bash-0B1220?style=for-the-badge&logo=gnubash&logoColor=86EFAC" alt="Bash"/>
+
 </div>
 
 ---
 
-<!-- ==================== 03. 关于我 ==================== -->
+<!-- ==================== GITHUB ANALYTICS ==================== -->
 
-## 👨‍💻 About Me
+<h2 align="center">GITHUB ANALYTICS</h2>
 
-- 🎓 I'm a student exploring software development.
-- 💻 Currently learning C, C++, Linux and network programming.
-- 🧠 Interested in high-performance systems and AI infrastructure.
-- 🚀 Building projects to turn knowledge into practical skills.
-- 📚 Believe in learning by building.
-
----
-
-<!-- ==================== 04. 技术栈 ==================== -->
-
-## 🛠️ Tech Stack
+<p align="center">
+  <sub>ACTIVITY · CODE DISTRIBUTION · CONTINUOUS PROGRESS</sub>
+</p>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<a href="https://github.com/Zhang-ling0">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Zhang-ling0&show_icons=true&hide_border=true&bg_color=0B1020&title_color=67E8F9&text_color=CBD5E1&icon_color=A78BFA&ring_color=22D3EE&include_all_commits=true"
+    height="180"
+    alt="GitHub Statistics"
+  />
+</a>
+
+<a href="https://github.com/Zhang-ling0">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhang-ling0&layout=compact&hide_border=true&bg_color=0B1020&title_color=67E8F9&text_color=CBD5E1"
+    height="180"
+    alt="Most Used Languages"
+  />
+</a>
 
 </div>
 
 ---
 
-<!-- ==================== 05. GitHub 数据面板 ==================== -->
+<!-- ==================== PROJECTS ==================== -->
 
-## GitHub Dashboard
+<h2 align="center">SELECTED PROJECTS</h2>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Zhang-ling0&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhang-ling0&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
-
-</div>
-
----
-
-<!-- ==================== 06. 精选项目 ==================== -->
-
-## Featured Projects
+<p align="center">
+  <sub>TURNING KNOWLEDGE INTO PRACTICAL ENGINEERING</sub>
+</p>
 
 <div align="center">
 
 <a href="https://github.com/Zhang-ling0/cpp-oj-vibecoding">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhang-ling0&repo=cpp-oj-vibecoding&theme=tokyonight&hide_border=true" alt="Featured Project 1" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=Zhang-ling0&repo=cpp-oj-vibecoding&hide_border=true&bg_color=0B1020&title_color=67E8F9&text_color=CBD5E1&icon_color=A78BFA"
+    alt="C++ OJ Vibecoding Project"
+  />
 </a>
 
 <a href="https://github.com/Zhang-ling0/LinuxStudy">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhang-ling0&repo=LinuxStudy&theme=tokyonight&hide_border=true" alt="Featured Project 2" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=Zhang-ling0&repo=LinuxStudy&hide_border=true&bg_color=0B1020&title_color=67E8F9&text_color=CBD5E1&icon_color=A78BFA"
+    alt="Linux Study Project"
+  />
 </a>
 
 </div>
 
 ---
 
-<!-- ==================== 07. 蛇形贡献动画 ==================== -->
+<!-- ==================== CONTRIBUTIONS ==================== -->
 
-## 🐍 Contribution Graph
+<h2 align="center">CONTRIBUTION GRAPH</h2>
+
+<p align="center">
+  <sub>EVERY COMMIT IS A STEP FORWARD</sub>
+</p>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Zhang-ling0/Zhang-ling0/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
+<img
+  src="https://raw.githubusercontent.com/Zhang-ling0/Zhang-ling0/output/github-contribution-grid-snake-dark.svg"
+  width="100%"
+  alt="GitHub Contribution Snake"
+/>
 
 </div>
 
 ---
 
-<!-- ==================== 08. 页脚 ==================== -->
+<!-- ==================== FOOTER ==================== -->
 
 <div align="center">
 
-### ✨ Keep Learning. Keep Building.
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%" alt="Footer" />
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=0B1020&height=2&section=footer"
+  width="70%"
+  alt="Footer Divider"
+/>
+
+<br/><br/>
+
+**BUILD · LEARN · REPEAT**
+
+<br/>
+
+<sub>Exploring the intersection of systems engineering and artificial intelligence.</sub>
+
+<br/><br/>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,45:312E81,75:172554,100:080B16&height=120&section=footer"
+  width="100%"
+  alt="Gradient Footer"
+/>
 
 </div>
