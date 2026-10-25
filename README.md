@@ -127,8 +127,6 @@ with a long-term interest in high-performance systems and AI infrastructure.
 
 </div>
 
----
-
 <!-- ==================== PROJECTS ==================== -->
 
 <h2 align="center">SELECTED PROJECTS</h2>
@@ -137,25 +135,32 @@ with a long-term interest in high-performance systems and AI infrastructure.
   <sub>TURNING KNOWLEDGE INTO PRACTICAL ENGINEERING</sub>
 </p>
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="50%" align="center" valign="top">
 
 <a href="https://github.com/Zhang-ling0/cpp-oj-vibecoding">
   <img
     src="https://github-readme-stats.vercel.app/api/pin/?username=Zhang-ling0&repo=cpp-oj-vibecoding&hide_border=true&bg_color=0B1020&title_color=67E8F9&text_color=CBD5E1&icon_color=A78BFA"
+    width="100%"
     alt="C++ OJ Vibecoding Project"
   />
 </a>
 
+</td>
+<td width="50%" align="center" valign="top">
+
 <a href="https://github.com/Zhang-ling0/LinuxStudy">
   <img
     src="https://github-readme-stats.vercel.app/api/pin/?username=Zhang-ling0&repo=LinuxStudy&hide_border=true&bg_color=0B1020&title_color=67E8F9&text_color=CBD5E1&icon_color=A78BFA"
+    width="100%"
     alt="Linux Study Project"
   />
 </a>
 
-</div>
-
----
+</td>
+</tr>
+</table>
 
 <!-- ==================== CONTRIBUTIONS ==================== -->
 
