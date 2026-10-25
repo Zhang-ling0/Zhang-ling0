@@ -1,6 +1,4 @@
-
 name: Generate Snake Animation
-
 "on":
   schedule:
     - cron: "0 0 * * *"
@@ -12,7 +10,7 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-
+    timeout-minutes: 10
     steps:
       - name: Generate Snake
         uses: Platane/snk@v3
