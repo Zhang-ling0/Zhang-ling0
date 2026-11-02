@@ -46,7 +46,7 @@ with a long-term interest in high-performance systems and AI infrastructure.
 
 </div>
 
-<table width="100%">
+<table>
 <tr>
 <td width="50%" valign="top">
 
@@ -66,10 +66,6 @@ with a long-term interest in high-performance systems and AI infrastructure.
 - Concurrency and memory management
 - AI inference services
 - Systems engineering for AI
-
-<br/>
-<br/>
-<br/>
 
 </td>
 </tr>
@@ -101,6 +97,69 @@ with a long-term interest in high-performance systems and AI infrastructure.
 </div>
 
 ---
+
+<!-- ==================== GITHUB ANALYTICS ==================== -->
+
+<h2 align="center">GITHUB ANALYTICS</h2>
+
+<p align="center">
+  <sub>ACTIVITY · CODE DISTRIBUTION · CONTINUOUS PROGRESS</sub>
+</p>
+
+<div align="center">
+
+<a href="https://github.com/Zhang-ling0">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Zhang-ling0&show_icons=true&hide_border=true&bg_color=0B1020&title_color=67E8F9&text_color=CBD5E1&icon_color=A78BFA&ring_color=22D3EE&include_all_commits=true"
+    height="180"
+    alt="GitHub Statistics"
+  />
+</a>
+
+<a href="https://github.com/Zhang-ling0">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhang-ling0&layout=compact&hide_border=true&bg_color=0B1020&title_color=67E8F9&text_color=CBD5E1"
+    height="180"
+    alt="Most Used Languages"
+  />
+</a>
+
+</div>
+
+<!-- ==================== PROJECTS ==================== -->
+
+<h2 align="center">SELECTED PROJECTS</h2>
+
+<p align="center">
+  <sub>TURNING KNOWLEDGE INTO PRACTICAL ENGINEERING</sub>
+</p>
+
+<table width="100%">
+<tr>
+<td width="50%" align="center" valign="top">
+
+<a href="https://github.com/Zhang-ling0/cpp-oj-vibecoding">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=Zhang-ling0&repo=cpp-oj-vibecoding&hide_border=true&bg_color=0B1020&title_color=67E8F9&text_color=CBD5E1&icon_color=A78BFA"
+    width="100%"
+    alt="C++ OJ Vibecoding Project"
+  />
+</a>
+
+</td>
+<td width="50%" align="center" valign="top">
+
+<a href="https://github.com/Zhang-ling0/LinuxStudy">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=Zhang-ling0&repo=LinuxStudy&hide_border=true&bg_color=0B1020&title_color=67E8F9&text_color=CBD5E1&icon_color=A78BFA"
+    width="100%"
+    alt="Linux Study Project"
+  />
+</a>
+
+</td>
+</tr>
+</table>
 
 <!-- ==================== CONTRIBUTIONS ==================== -->
 
