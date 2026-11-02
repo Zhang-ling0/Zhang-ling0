@@ -46,7 +46,9 @@ with a long-term interest in high-performance systems and AI infrastructure.
 
 </div>
 
-<table>
+<!-- ==================== FOCUS & STACK ==================== -->
+
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -58,108 +60,28 @@ with a long-term interest in high-performance systems and AI infrastructure.
 - Computer networks and I/O models
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-### LONG-TERM INTERESTS
+### TECHNOLOGY STACK
 
-- High-performance server architecture
-- Concurrency and memory management
-- AI inference services
-- Systems engineering for AI
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ==================== TECH STACK ==================== -->
-
-<h2 align="center">TECHNOLOGY STACK</h2>
-
-<p align="center">
-  <sub>TOOLS AND TECHNOLOGIES I'M LEARNING</sub>
-</p>
-
-<div align="center">
+<br/>
 
 <img src="https://img.shields.io/badge/C-0B1220?style=for-the-badge&logo=c&logoColor=A5B4FC" alt="C"/>
 <img src="https://img.shields.io/badge/C%2B%2B-0B1220?style=for-the-badge&logo=cplusplus&logoColor=93C5FD" alt="C++"/>
 <img src="https://img.shields.io/badge/Python-0B1220?style=for-the-badge&logo=python&logoColor=67E8F9" alt="Python"/>
-<img src="https://img.shields.io/badge/Linux-0B1220?style=for-the-badge&logo=linux&logoColor=FDE68A" alt="Linux"/>
 
 <br/>
 
+<img src="https://img.shields.io/badge/Linux-0B1220?style=for-the-badge&logo=linux&logoColor=FDE68A" alt="Linux"/>
 <img src="https://img.shields.io/badge/Git-0B1220?style=for-the-badge&logo=git&logoColor=FCA5A5" alt="Git"/>
 <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=E2E8F0" alt="GitHub"/>
 <img src="https://img.shields.io/badge/Bash-0B1220?style=for-the-badge&logo=gnubash&logoColor=86EFAC" alt="Bash"/>
 
-</div>
-
----
-
-<!-- ==================== GITHUB ANALYTICS ==================== -->
-
-<h2 align="center">GITHUB ANALYTICS</h2>
-
-<p align="center">
-  <sub>ACTIVITY · CODE DISTRIBUTION · CONTINUOUS PROGRESS</sub>
-</p>
-
-<div align="center">
-
-<a href="https://github.com/Zhang-ling0">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Zhang-ling0&show_icons=true&hide_border=true&bg_color=0B1020&title_color=67E8F9&text_color=CBD5E1&icon_color=A78BFA&ring_color=22D3EE&include_all_commits=true"
-    height="180"
-    alt="GitHub Statistics"
-  />
-</a>
-
-<a href="https://github.com/Zhang-ling0">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhang-ling0&layout=compact&hide_border=true&bg_color=0B1020&title_color=67E8F9&text_color=CBD5E1"
-    height="180"
-    alt="Most Used Languages"
-  />
-</a>
-
-</div>
-
-<!-- ==================== PROJECTS ==================== -->
-
-<h2 align="center">SELECTED PROJECTS</h2>
-
-<p align="center">
-  <sub>TURNING KNOWLEDGE INTO PRACTICAL ENGINEERING</sub>
-</p>
-
-<table width="100%">
-<tr>
-<td width="50%" align="center" valign="top">
-
-<a href="https://github.com/Zhang-ling0/cpp-oj-vibecoding">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=Zhang-ling0&repo=cpp-oj-vibecoding&hide_border=true&bg_color=0B1020&title_color=67E8F9&text_color=CBD5E1&icon_color=A78BFA"
-    width="100%"
-    alt="C++ OJ Vibecoding Project"
-  />
-</a>
-
-</td>
-<td width="50%" align="center" valign="top">
-
-<a href="https://github.com/Zhang-ling0/LinuxStudy">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=Zhang-ling0&repo=LinuxStudy&hide_border=true&bg_color=0B1020&title_color=67E8F9&text_color=CBD5E1&icon_color=A78BFA"
-    width="100%"
-    alt="Linux Study Project"
-  />
-</a>
-
 </td>
 </tr>
 </table>
+
+---
 
 <!-- ==================== CONTRIBUTIONS ==================== -->
 
@@ -200,3 +122,5 @@ with a long-term interest in high-performance systems and AI infrastructure.
 <br/>
 
 <sub>Exploring the intersection of systems engineering and artificial intelligence.</sub>
+
+</div>
