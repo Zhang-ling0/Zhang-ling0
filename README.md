@@ -46,7 +46,7 @@ with a long-term interest in high-performance systems and AI infrastructure.
 
 </div>
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -66,6 +66,10 @@ with a long-term interest in high-performance systems and AI infrastructure.
 - Concurrency and memory management
 - AI inference services
 - Systems engineering for AI
+
+<br/>
+<br/>
+<br/>
 
 </td>
 </tr>
