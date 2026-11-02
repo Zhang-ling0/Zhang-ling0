@@ -46,67 +46,6 @@ with a long-term interest in high-performance systems and AI infrastructure.
 
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### CURRENT FOCUS
-
-- C / C++ programming
-- Data structures and algorithms
-- Linux system programming
-- Computer networks and I/O models
-
-</td>
-<td width="50%" valign="top">
-
-### LONG-TERM INTERESTS
-
-- High-performance server architecture
-- Concurrency and memory management
-- AI inference services
-- Systems engineering for AI
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ==================== PROJECTS ==================== -->
-
-<h2 align="center">SELECTED PROJECTS</h2>
-
-<p align="center">
-  <sub>TURNING KNOWLEDGE INTO PRACTICAL ENGINEERING</sub>
-</p>
-
-<table width="100%">
-<tr>
-<td width="50%" align="center" valign="top">
-
-<a href="https://github.com/Zhang-ling0/cpp-oj-vibecoding">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=Zhang-ling0&repo=cpp-oj-vibecoding&hide_border=true&bg_color=0B1020&title_color=67E8F9&text_color=CBD5E1&icon_color=A78BFA"
-    width="100%"
-    alt="C++ OJ Vibecoding Project"
-  />
-</a>
-
-</td>
-<td width="50%" align="center" valign="top">
-
-<a href="https://github.com/Zhang-ling0/LinuxStudy">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=Zhang-ling0&repo=LinuxStudy&hide_border=true&bg_color=0B1020&title_color=67E8F9&text_color=CBD5E1&icon_color=A78BFA"
-    width="100%"
-    alt="Linux Study Project"
-  />
-</a>
-
-</td>
-</tr>
-</table>
 
 <!-- ==================== CONTRIBUTIONS ==================== -->
 
