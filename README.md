@@ -46,7 +46,7 @@ with a long-term interest in high-performance systems and AI infrastructure.
 
 </div>
 
-<!-- ==================== FOCUS & STACK ==================== -->
+<!-- ==================== FOCUS & INTERESTS ==================== -->
 
 <table width="100%">
 <tr>
@@ -60,26 +60,57 @@ with a long-term interest in high-performance systems and AI infrastructure.
 - Computer networks and I/O models
 
 </td>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
-### TECHNOLOGY STACK
+### LONG-TERM INTERESTS
 
-<br/>
+- High-performance server architecture
+- Concurrency and memory management
+- AI inference services
+- Systems engineering for AI
+
+</td>
+</tr>
+</table>
+
+<!-- ==================== TECH STACK ==================== -->
+
+<h2 align="center">TECHNOLOGY STACK</h2>
+
+<p align="center">
+  <sub>TOOLS AND TECHNOLOGIES I'M LEARNING</sub>
+</p>
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/C-0B1220?style=for-the-badge&logo=c&logoColor=A5B4FC" alt="C"/>
 <img src="https://img.shields.io/badge/C%2B%2B-0B1220?style=for-the-badge&logo=cplusplus&logoColor=93C5FD" alt="C++"/>
 <img src="https://img.shields.io/badge/Python-0B1220?style=for-the-badge&logo=python&logoColor=67E8F9" alt="Python"/>
-
-<br/>
-
 <img src="https://img.shields.io/badge/Linux-0B1220?style=for-the-badge&logo=linux&logoColor=FDE68A" alt="Linux"/>
 <img src="https://img.shields.io/badge/Git-0B1220?style=for-the-badge&logo=git&logoColor=FCA5A5" alt="Git"/>
 <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=E2E8F0" alt="GitHub"/>
 <img src="https://img.shields.io/badge/Bash-0B1220?style=for-the-badge&logo=gnubash&logoColor=86EFAC" alt="Bash"/>
 
-</td>
-</tr>
-</table>
+</div>
+
+---
+
+<!-- ==================== SELECTED PROJECTS ==================== -->
+
+<h2 align="center">SELECTED PROJECTS</h2>
+
+<p align="center">
+  <sub>TURNING KNOWLEDGE INTO PRACTICAL ENGINEERING</sub>
+</p>
+
+<div align="center">
+
+| Project | Description |
+| :--- | :--- |
+| **[C++ OJ Vibecoding](https://github.com/Zhang-ling0/cpp-oj-vibecoding)** | A C++ Online Judge system for interview preparation. |
+| **[Linux Study Project](https://github.com/Zhang-ling0/Linux-Learning-Records)** | Notes and code practices for Linux system programming. |
+
+</div>
 
 ---
 
